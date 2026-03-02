@@ -22,8 +22,6 @@ This project was developed through a **"Vibe Coding"** methodology—a collabora
 # 🛠️ Project Components
 
 * **[Geotab Pulse Add-in JSON](./config.json):** The final, AI-optimized configuration ready to be deployed in MyGeotab.
-* **[The Vibe Coding Prompt](./vibe_coding-prompt.md):** A detailed log of the prompts and the iterative process used with Gemini to build this solution.
-* **[Source Code](./main.js):** The JavaScript logic powering the real-time data synchronization and UI updates.
-
+* **[The Vibe Coding Prompt](./vibe_coding_prompt.md):** A detailed log of the prompts and the iterative process used with Gemini to build this solution.
 ---
 *Developed for the Geotab Hackathon | Focus: Retail Distribution & Route Efficiency*
